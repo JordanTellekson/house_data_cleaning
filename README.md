@@ -21,15 +21,6 @@ If the dataset is not included in this repository, it can be downloaded from Kag
 
 ---
 
-### Project Structure
-housing-data-cleaning/
-│
-├── housing_data_cleaning.ipynb
-├── kc_house_data.csv
-└── README.md
-
----
-
 ### Analysis Steps
 1. **Data Loading & Inspection**
    - Loaded the dataset from CSV
